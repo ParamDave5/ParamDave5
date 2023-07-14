@@ -1,6 +1,7 @@
 ### 👋 Hi there, I’m Param!
 
-- 👀 I’m interested in Computer Vision, AI, Robotics, Finance and Algo Trading 
+- 👀 I’m interested in Computer Vision, AI, Robotics, Finance, and Algo Trading
+- 🕴️ I also trade securities and find opportunities using Technical Analysis and Algo Trading for which you will see resources soon.
 - 👯 I’m looking to collaborate on anything that covers my interests!
 - 📫 You can reach me at [param10.dave@gmail.com](param10.dave@gmail.com)
 
