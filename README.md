@@ -6,7 +6,7 @@
 - 📫 You can reach me at [param10.dave@gmail.com](param10.dave@gmail.com)
 
 
-<a href="https://www.linkedin.com/in/param-dave-823910136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/param_dave?lang=en"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://in.tradingview.com/u/Param_Dave/"><img src="https://img.shields.io/badge/TradingView-000000.svg?&style=for-the-badge&logo=TradingView&logoColor=white"> </a><a href="https://leetcode.com/user0823L/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a> 
+<a href="https://www.linkedin.com/in/param-dave-823910136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/param_dave?lang=en"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://in.tradingview.com/u/Param_Dave/"><img src="https://img.shields.io/badge/TradingView-000000.svg?&style=for-the-badge&logo=TradingView&logoColor=white"> </a><a href="https://leetcode.com/user0823L/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a>  </a><a href="https://www.kaggle.com/paramdave"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a> 
 
 - :rocket: Skills
 
